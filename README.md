@@ -1,1 +1,4 @@
 # CONFLICTO-NUMEROS
+6
+7
+8
